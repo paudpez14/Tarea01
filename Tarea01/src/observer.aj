@@ -1,5 +1,6 @@
 package src;
 
-public aspect observer {
+public aspect observer implements observer{
+	
 
 }

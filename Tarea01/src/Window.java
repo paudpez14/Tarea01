@@ -10,7 +10,7 @@ public class Window implements Subject{
 	private GridPane root;// Este sera la representación FX de la ventana.
 	private List<Observer> buttons=new LinkedList<>();
 	
-	
+	ddx
 	public Window(String color, GridPane root) {
 		super();
 		this.color = color;
