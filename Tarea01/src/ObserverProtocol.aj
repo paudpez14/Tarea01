@@ -10,7 +10,7 @@ public  aspect ObserverProtocol {
 		String color=root.getStyle();
 		color=color.replace("-fx-background-color:", "");
 		System.out.println("Nuevo color de la pantalla:"+color);
-		
+		System.out.println("Cambiado con exito");
 	}
 	
 }
